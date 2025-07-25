@@ -1,2 +1,2 @@
-Nombres: Leslie Mariela Jimenez Garcia
-        Kevin Alexander Cordon García 
+Nombres: Leslie Mariela Jimenez Garcia.
+        Kevin Alexander Cordon García .
